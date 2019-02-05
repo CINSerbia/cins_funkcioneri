@@ -8,10 +8,4 @@ CINS je prvi put objavio bazu postupaka protiv funkcionera 2016. godine, a ovaj 
 
 Ova baza podataka finansirana je grantom američkog Stejt departmenta. Mišljenja, nalazi i zaključci navedeni ovde pripadaju autorima i ne oslikavaju nužno stavove Stejt departmenta.
 
-
-__Autori baze__ 
-Anđela Milivojević, Bojana Bosanac, Vladimir Kostić
-
-
-__Stažistkinje__ 
-Teodora Ćurčić, Jovana Tomić
+https://funkcioneri.cins.rs/
