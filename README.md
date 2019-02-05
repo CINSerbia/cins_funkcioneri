@@ -10,6 +10,8 @@ Ova baza podataka finansirana je grantom američkog Stejt departmenta. Mišljenj
 
 https://funkcioneri.cins.rs/
 
+# About the project
+
 "Processes Against Officials" is a unique database made by the Center for Investigative Reporting of Serbia (CINS), which gives citizens the opportunity to get information in one place about the processes conducted by the Serbian Anti-Corruption Agency against public officials in the period from 2010 to November 2018.
 
 For the first time, CINS has published a database of processes against public officials in 2016, and this project is a continuation of work on collecting and updating data, with new search options and informational graphics.
