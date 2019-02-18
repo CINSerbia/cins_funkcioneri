@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Quicksand',serif;
+  color: #337ab7;
+}
+
+body, h2, h3, h4, h5, h6 {
+ font-family: 'Work Sans', sans-serif;
+}
+
+.main-header .logo {
+  font-size: 15px;
+}
+
+.col-sm-2 {
+  padding-right: 5px;
+  padding-left: 5px;
+}
